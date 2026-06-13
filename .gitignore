@@ -1,0 +1,21 @@
+# Credentials
+.env
+
+# Data artifacts
+data/bm25_params.json
+
+# Pre-cloned source (large repo, not part of this project)
+langchain/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# macOS
+.DS_Store
